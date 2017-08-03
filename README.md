@@ -2,6 +2,6 @@
 
 Исправления перевода для Car Mechanic Simulator 2018
 
-Текущая поддерживаемая версия: 1.9
+Текущая поддерживаемая версия: 1.0.9
 
 Заменить файл Car Mechanic Simulator 2018\cms2018_Data\StreamingAssets\Localizations\Russian.txt
